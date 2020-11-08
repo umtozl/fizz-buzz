@@ -1,5 +1,5 @@
 {
-    "name": "nightlight1",
+    "name": "fizz-buzz",
     "description": "",
     "dependencies": {
         "core": "*",
